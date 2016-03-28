@@ -1,1 +1,0 @@
-MainPackage=C:\Users\teras\Documents\CordovaFiles\Map1Test\platforms\windows\build\windows\debug\anycpu\win10\CordovaApp.Windows10_0.0.1.0_anycpu_debug.appx
