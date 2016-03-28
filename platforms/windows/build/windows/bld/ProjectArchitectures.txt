@@ -1,1 +1,1 @@
-C:\Users\teras\Documents\CordovaFiles\Map1Test\platforms\windows\CordovaApp.Windows10.jsproj;neutral
+C:\Users\teras\Documents\CordovaFiles\Map1Test\platforms\windows\CordovaApp.Windows.jsproj;neutral
