@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="com.example.MapTest" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>100</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="config.xml" uri="ms-resource://com.example.MapTest/Files/config.xml">
+				<Candidate type="Path">
+					<Value>config.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="images">
+				<NamedResource name="SplashScreen.png" uri="ms-resource://com.example.MapTest/Files/images/SplashScreen.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\SplashScreen.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://com.example.MapTest/Files/images/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\Square150x150Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square30x30Logo.png" uri="ms-resource://com.example.MapTest/Files/images/Square30x30Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\Square30x30Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square310x310Logo.png" uri="ms-resource://com.example.MapTest/Files/images/Square310x310Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\Square310x310Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://com.example.MapTest/Files/images/Square44x44Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\Square44x44Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square70x70Logo.png" uri="ms-resource://com.example.MapTest/Files/images/Square70x70Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\Square70x70Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://com.example.MapTest/Files/images/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\Square71x71Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://com.example.MapTest/Files/images/StoreLogo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\StoreLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://com.example.MapTest/Files/images/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\Wide310x150Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="www">
+				<NamedResource name="cordova.js" uri="ms-resource://com.example.MapTest/Files/www/cordova.js">
+					<Candidate type="Path">
+						<Value>www\cordova.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="cordova_plugins.js" uri="ms-resource://com.example.MapTest/Files/www/cordova_plugins.js">
+					<Candidate type="Path">
+						<Value>www\cordova_plugins.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="index.html" uri="ms-resource://com.example.MapTest/Files/www/index.html">
+					<Candidate type="Path">
+						<Value>www\index.html</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="cordova-js-src">
+					<NamedResource name="exec.js" uri="ms-resource://com.example.MapTest/Files/www/cordova-js-src/exec.js">
+						<Candidate type="Path">
+							<Value>www\cordova-js-src\exec.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="platform.js" uri="ms-resource://com.example.MapTest/Files/www/cordova-js-src/platform.js">
+						<Candidate type="Path">
+							<Value>www\cordova-js-src\platform.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="css">
+					<NamedResource name="index.css" uri="ms-resource://com.example.MapTest/Files/www/css/index.css">
+						<Candidate type="Path">
+							<Value>www\css\index.css</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="img">
+					<NamedResource name="logo.png" uri="ms-resource://com.example.MapTest/Files/www/img/logo.png">
+						<Candidate type="Path">
+							<Value>www\img\logo.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="js">
+					<NamedResource name="index.js" uri="ms-resource://com.example.MapTest/Files/www/js/index.js">
+						<Candidate type="Path">
+							<Value>www\js\index.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="plugins">
+					<ResourceMapSubtree name="cordova-plugin-geolocation">
+						<ResourceMapSubtree name="src">
+							<ResourceMapSubtree name="windows">
+								<NamedResource name="GeolocationProxy.js" uri="ms-resource://com.example.MapTest/Files/www/plugins/cordova-plugin-geolocation/src/windows/GeolocationProxy.js">
+									<Candidate type="Path">
+										<Value>www\plugins\cordova-plugin-geolocation\src\windows\GeolocationProxy.js</Value>
+									</Candidate>
+								</NamedResource>
+							</ResourceMapSubtree>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="www">
+							<NamedResource name="Coordinates.js" uri="ms-resource://com.example.MapTest/Files/www/plugins/cordova-plugin-geolocation/www/Coordinates.js">
+								<Candidate type="Path">
+									<Value>www\plugins\cordova-plugin-geolocation\www\Coordinates.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="geolocation.js" uri="ms-resource://com.example.MapTest/Files/www/plugins/cordova-plugin-geolocation/www/geolocation.js">
+								<Candidate type="Path">
+									<Value>www\plugins\cordova-plugin-geolocation\www\geolocation.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="Position.js" uri="ms-resource://com.example.MapTest/Files/www/plugins/cordova-plugin-geolocation/www/Position.js">
+								<Candidate type="Path">
+									<Value>www\plugins\cordova-plugin-geolocation\www\Position.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="PositionError.js" uri="ms-resource://com.example.MapTest/Files/www/plugins/cordova-plugin-geolocation/www/PositionError.js">
+								<Candidate type="Path">
+									<Value>www\plugins\cordova-plugin-geolocation\www\PositionError.js</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="WinJS">
+					<ResourceMapSubtree name="js">
+						<NamedResource name="base.js" uri="ms-resource://com.example.MapTest/Files/www/WinJS/js/base.js">
+							<Candidate type="Path">
+								<Value>www\WinJS\js\base.js</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

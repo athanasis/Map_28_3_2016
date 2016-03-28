@@ -1,0 +1,1 @@
+C:\Users\teras\Documents\CordovaFiles\Map1Test\platforms\windows\AppPackages\CordovaApp.Windows10_0.0.1.0_debug_Test\CordovaApp.Windows10_0.0.1.0_AnyCPU_debug.appxbundle
