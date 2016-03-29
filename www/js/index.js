@@ -27,7 +27,6 @@ var app = {
     // 'load', 'deviceready', 'offline', and 'online'.
     bindEvents: function() {
         document.addEventListener('deviceready', this.onDeviceReady, false);
- app.receivedEvent('deviceready');
     },
     // deviceready Event Handler
     //
@@ -42,15 +41,7 @@ var app = {
 
         console.log('Received Event: ' + id);
 
-		var map;
-
-    require(["esri/map", "dojo/domReady!"], function(Map) {
-      map = new Map("map", {
-        basemap: "topo",  //For full list of pre-defined basemaps, navigate to http://arcg.is/1JVo6Wd
-        center: [-116.5378380089957, 33.82446384713953], // longitude, latitude
-        zoom: 17
-      });
-    });
+		
 	
     }
 };

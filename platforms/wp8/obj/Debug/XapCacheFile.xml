@@ -1,14 +1,14 @@
-﻿<xapCache source="C:\Users\teras\Documents\CordovaFiles\Map1Test\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="28/3/2016 10:51:49 μμ">
-  <file source="C:\Users\teras\Documents\CordovaFiles\Map1Test\platforms\wp8\obj\Debug\com.example.MapTest.dll" archivePath="com.example.MapTest.dll" lastWriteTime="28/3/2016 10:51:48 μμ" />
-  <file source="C:\Users\teras\Documents\CordovaFiles\Map1Test\platforms\wp8\config.xml" archivePath="config.xml" lastWriteTime="28/3/2016 10:51:46 μμ" />
-  <file source="C:\Users\teras\Documents\CordovaFiles\Map1Test\platforms\wp8\www\cordova-js-src\exec.js" archivePath="www\cordova-js-src\exec.js" lastWriteTime="28/3/2016 10:51:46 μμ" />
-  <file source="C:\Users\teras\Documents\CordovaFiles\Map1Test\platforms\wp8\www\cordova-js-src\platform.js" archivePath="www\cordova-js-src\platform.js" lastWriteTime="28/3/2016 10:51:46 μμ" />
-  <file source="C:\Users\teras\Documents\CordovaFiles\Map1Test\platforms\wp8\www\cordova.js" archivePath="www\cordova.js" lastWriteTime="28/3/2016 10:51:46 μμ" />
-  <file source="C:\Users\teras\Documents\CordovaFiles\Map1Test\platforms\wp8\www\cordova_plugins.js" archivePath="www\cordova_plugins.js" lastWriteTime="28/3/2016 10:51:46 μμ" />
-  <file source="C:\Users\teras\Documents\CordovaFiles\Map1Test\platforms\wp8\www\css\index.css" archivePath="www\css\index.css" lastWriteTime="28/3/2016 10:51:46 μμ" />
-  <file source="C:\Users\teras\Documents\CordovaFiles\Map1Test\platforms\wp8\www\img\logo.png" archivePath="www\img\logo.png" lastWriteTime="28/3/2016 10:51:46 μμ" />
-  <file source="C:\Users\teras\Documents\CordovaFiles\Map1Test\platforms\wp8\www\index.html" archivePath="www\index.html" lastWriteTime="28/3/2016 10:51:46 μμ" />
-  <file source="C:\Users\teras\Documents\CordovaFiles\Map1Test\platforms\wp8\www\js\index.js" archivePath="www\js\index.js" lastWriteTime="28/3/2016 10:51:46 μμ" />
+﻿<xapCache source="C:\Users\teras\Documents\CordovaFiles\Map1Test\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="29/3/2016 7:27:52 πμ">
+  <file source="C:\Users\teras\Documents\CordovaFiles\Map1Test\platforms\wp8\obj\Debug\com.example.MapTest.dll" archivePath="com.example.MapTest.dll" lastWriteTime="29/3/2016 7:27:51 πμ" />
+  <file source="C:\Users\teras\Documents\CordovaFiles\Map1Test\platforms\wp8\config.xml" archivePath="config.xml" lastWriteTime="29/3/2016 7:27:49 πμ" />
+  <file source="C:\Users\teras\Documents\CordovaFiles\Map1Test\platforms\wp8\www\cordova-js-src\exec.js" archivePath="www\cordova-js-src\exec.js" lastWriteTime="29/3/2016 7:27:49 πμ" />
+  <file source="C:\Users\teras\Documents\CordovaFiles\Map1Test\platforms\wp8\www\cordova-js-src\platform.js" archivePath="www\cordova-js-src\platform.js" lastWriteTime="29/3/2016 7:27:49 πμ" />
+  <file source="C:\Users\teras\Documents\CordovaFiles\Map1Test\platforms\wp8\www\cordova.js" archivePath="www\cordova.js" lastWriteTime="29/3/2016 7:27:49 πμ" />
+  <file source="C:\Users\teras\Documents\CordovaFiles\Map1Test\platforms\wp8\www\cordova_plugins.js" archivePath="www\cordova_plugins.js" lastWriteTime="29/3/2016 7:27:49 πμ" />
+  <file source="C:\Users\teras\Documents\CordovaFiles\Map1Test\platforms\wp8\www\css\index.css" archivePath="www\css\index.css" lastWriteTime="29/3/2016 7:27:49 πμ" />
+  <file source="C:\Users\teras\Documents\CordovaFiles\Map1Test\platforms\wp8\www\img\logo.png" archivePath="www\img\logo.png" lastWriteTime="29/3/2016 7:27:49 πμ" />
+  <file source="C:\Users\teras\Documents\CordovaFiles\Map1Test\platforms\wp8\www\index.html" archivePath="www\index.html" lastWriteTime="29/3/2016 7:27:49 πμ" />
+  <file source="C:\Users\teras\Documents\CordovaFiles\Map1Test\platforms\wp8\www\js\index.js" archivePath="www\js\index.js" lastWriteTime="29/3/2016 7:27:49 πμ" />
   <file source="C:\Users\teras\Documents\CordovaFiles\Map1Test\platforms\wp8\Images\appbar.back.rest.png" archivePath="Images\appbar.back.rest.png" lastWriteTime="28/3/2016 10:36:58 μμ" />
   <file source="C:\Users\teras\Documents\CordovaFiles\Map1Test\platforms\wp8\Images\appbar.close.rest.png" archivePath="Images\appbar.close.rest.png" lastWriteTime="28/3/2016 10:36:58 μμ" />
   <file source="C:\Users\teras\Documents\CordovaFiles\Map1Test\platforms\wp8\Images\appbar.feature.video.rest.png" archivePath="Images\appbar.feature.video.rest.png" lastWriteTime="28/3/2016 10:36:58 μμ" />
